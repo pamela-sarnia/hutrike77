@@ -436,6 +436,10 @@ backdrop-filter: blur(40px);
 }
 
 @media(max-width:991px) {
+    .menu {
+      font-size: 12pt;
+      padding: 10px;
+    }
     .card {
       display: block;
     }
@@ -486,6 +490,10 @@ backdrop-filter: blur(40px);
 }
 
 @media(max-width:420px) {
+  .menu {
+    font-size: 12pt;
+    padding: 10px;
+  }
   .card {
     display: block;
   }
